@@ -1,0 +1,4 @@
+/.vscode
+/build
+/cget
+/include/plorth/cli/config.hpp
